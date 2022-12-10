@@ -163,12 +163,6 @@ header {
         display: none;
       }
       transition: 0.3s;
-      // .all:hover{
-      //     display: none;
-      // }
-      // .all:hover .hover{
-      //     display: block;
-      // }
       &:hover {
         background: rgba($color: #259609, $alpha: 0.15);
       }
